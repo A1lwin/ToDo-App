@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.content {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+form {
+    margin-top: 20px;
+}
